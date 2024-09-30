@@ -45,8 +45,8 @@ Create hosts, switches, and links
     - Learning Bridge: Intra domain communication
     - Unicast DHCP: DHCP support for devices
     - Proxy ARP: ARP reply for devices
-- virtual router
-    - BGP: forward external router’s eBGP packet to the routing server (e.g., Quagga)
+- Virtual router
+    - BGP: Forward external router’s eBGP packet to the routing server (e.g., Quagga)
     - Gateway: L2 modification for inter domain (SDN Network <-> Others)
-    - Routing: decide next hop using information collected from Quagga (Other Network <-> Others)
+    - Routing: Decide next hop using information collected from Quagga (Other Network <-> Others)
     
